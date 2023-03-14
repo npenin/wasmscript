@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "binaryen": "^112.0.0",
+    "typescript": "^4.9.5"
+  },
+  "packageManager": "yarn@3.4.1"
+}
